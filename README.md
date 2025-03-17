@@ -28,8 +28,8 @@ Step 7: Save and run the application.
  
 
 ## Program to create an Option Menu
-## Developed by: KISHORE M
-## RegisterNumber: 212221043003
+## Developed by: Nihil KK
+## RegisterNumber: 212221223003
 
 
 
